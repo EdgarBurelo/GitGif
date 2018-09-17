@@ -1,4 +1,4 @@
-var GIFS = ["cat", "Notebook", "Nobody", "King"];
+var GIFS = ["Java", "Javascript", "HTML", "CSS","Photoshop","C#","PHP","Pyhton","Ruby","C++"];
 
 function clickAsign() {
 $(".button").on("click", function() {
